@@ -2,8 +2,8 @@
 
 ![gitartwork](gitartwork.svg)
 
-<img src="https://www.freepik.com/vectors/video-editor" min-width="380px" max-width="400px" width="350px" align="right">
-<a href='https://www.freepik.com/vectors/video-editor'>Video editor vector created by pch.vector - www.freepik.com</a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
 <!--
 **Ola-mide/Ola-mide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
