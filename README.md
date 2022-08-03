@@ -2,6 +2,8 @@
 
 ![gitartwork](gitartwork.svg)
 
+<img src="https://raw.githubusercontent.com/Ola-mide/Ola-mide/main/image/computer.webp" min-width="380px" max-width="400px" width="350px" align="right">
+
 <!--
 **Ola-mide/Ola-mide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
